@@ -3,11 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-//minimum problam
 namespace PairMatching.DomainModel.MatchingCalculations
 {
-
-    //rows=from israel colum = from world
     public class HungarianAlgoritem
     {   
         int[,] _matrix;
